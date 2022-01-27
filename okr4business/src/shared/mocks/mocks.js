@@ -8,6 +8,10 @@ const DEPARTAMENTS = [
     id: "d2",
     name: "HUMAN RESOURCES",
   },
+  {
+    id: "d3",
+    name: "SALES"
+  }
 ];
 
 const USERS = [
@@ -23,6 +27,12 @@ const USERS = [
     image: AVATAR,
     deptId: "d2",
   },
+  {
+    id: "u3",
+    name: "RALPH MACCHIO",
+    image: AVATAR,
+    deptId: "d3"
+  }
 ];
 
 const OKRS = [];
